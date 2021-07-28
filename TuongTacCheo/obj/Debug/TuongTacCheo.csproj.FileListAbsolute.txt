@@ -1,0 +1,13 @@
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\bin\Debug\TuongTacCheo.exe.config
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\bin\Debug\TuongTacCheo.exe
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\bin\Debug\TuongTacCheo.pdb
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\obj\Debug\TuongTacCheo.csproj.AssemblyReference.cache
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\obj\Debug\TuongTacCheo.Properties.Resources.resources
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\obj\Debug\TuongTacCheo.csproj.GenerateResource.cache
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\obj\Debug\TuongTacCheo.csproj.CoreCompileInputs.cache
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\obj\Debug\TuongTacCheo.exe
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\obj\Debug\TuongTacCheo.pdb
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\obj\Debug\TuongTacCheo.Form1.resources
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\bin\Debug\WebDriver.dll
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\bin\Debug\WebDriver.xml
+C:\Users\s2huu\source\repos\TuongTacCheo\TuongTacCheo\obj\Debug\TuongTacCheo.csproj.CopyComplete
