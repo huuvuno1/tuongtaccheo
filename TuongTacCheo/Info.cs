@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TuongTacCheo
 {
+    [Serializable]
     class Info
     {
         public String Username { get; set; }
