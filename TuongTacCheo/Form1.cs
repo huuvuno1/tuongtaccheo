@@ -24,7 +24,8 @@ namespace TuongTacCheo
         }
 
         static string DOM_LIKE_PAGE = "div > div:nth-child(1) > div > div.rq0escxv.l9j0dhe7.du4w35lb > div > div > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb > div.l9j0dhe7.dp1hu0rb.cbu4d94t.j83agx80 > div.rq0escxv.lpgh02oy.du4w35lb.rek2kq2y > div > div > div > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.cbu4d94t.pfnyh3mw.d2edcug0.hpfvmrgz.o8rfisnq > div > div > div.oajrlxb2.g5ia77u1.qu0x051f.esr5mh6w.e9989ue4.r7d6kgcz.rq0escxv.nhd2j8a9.pq6dq46d.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.i1ao9s8h.esuyzwwr.f1sip0of.lzcic4wl.l9j0dhe7.abiwlrkh.p8dawk7l.cbu4d94t.taijpn5t.k4urcfbm > div > div.bp9cbjyn.j83agx80.taijpn5t.c4xchbtz.by2jbhx6.a0jftqn4 > div:nth-child(2) > span > span";
-        static string DOM_LIKE_POST = "div > div:nth-child(1) > div > div.rq0escxv.l9j0dhe7.du4w35lb > div > div > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb > div.dp1hu0rb.d2edcug0.taijpn5t.j83agx80.gs1a9yip > div > div > div > div > div > div > div > div > div > div > div > div > div > div:nth-child(2) > div > div:nth-child(4) > div > div > div:nth-child(1) > div > div.tvfksri0.ozuftl9m > div > div:nth-child(1) > div.oajrlxb2.gs1a9yip.g5ia77u1.mtkw9kbi.tlpljxtp.qensuy8j.ppp5ayq2.goun2846.ccm00jje.s44p3ltw.mk2mc5f4.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.nhd2j8a9.pq6dq46d.mg4g778l.btwxx1t3.pfnyh3mw.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.tgvbjcpo.hpfvmrgz.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.l9j0dhe7.i1ao9s8h.esuyzwwr.f1sip0of.du4w35lb.lzcic4wl.abiwlrkh.p8dawk7l > div.n00je7tq.arfg74bv.qs9ysxi8.k77z8yql.i09qtzwb.n7fi1qx3.b5wmifdl.hzruof5a.pmk7jnqg.j9ispegn.kr520xx4.c5ndavph.art1omkt.ot9fgl3s.rnr61an3";
+        static string DOM_LIKE_POST = ".oajrlxb2.gs1a9yip.g5ia77u1.mtkw9kbi.tlpljxtp.qensuy8j.ppp5ayq2.goun2846.ccm00jje.s44p3ltw.mk2mc5f4.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.nhd2j8a9.pq6dq46d.mg4g778l.btwxx1t3.pfnyh3mw.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.tgvbjcpo.hpfvmrgz.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.l9j0dhe7.i1ao9s8h.esuyzwwr.f1sip0of.du4w35lb.lzcic4wl.abiwlrkh.p8dawk7l > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.g5gj957u.rj1gh0hx.buofh1pr.hpfvmrgz.taijpn5t.bp9cbjyn.owycx6da.btwxx1t3.d1544ag0.tw6a2znq.jb3vyjys.dlv3wnog.rl04r1d5.mysgfdmx.hddg9phg.qu8okrzs.g0qnabr5 > div:nth-child(2) > span > span";
+        static string DOM_LIKE_POST_LIVESTREAM = ".rq0escxv.l9j0dhe7.du4w35lb.j83agx80.cbu4d94t.g5gj957u.d2edcug0.hpfvmrgz.rj1gh0hx.buofh1pr.dp1hu0rb > div > div.h3gjbzrl.qsy8amke > div.h7zd8jcd > div:nth-child(3) > div > div > div > div > div:nth-child(1) > div > span:nth-child(1) > div > div > span > div.oajrlxb2.rh7womw9.g5ia77u1.mtkw9kbi.tlpljxtp.qensuy8j.ppp5ayq2.goun2846.ccm00jje.s44p3ltw.mk2mc5f4.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.nhd2j8a9.q4pta889.mg4g778l.btwxx1t3.rmfx599b.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.tgvbjcpo.hpfvmrgz.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.l9j0dhe7.i1ao9s8h.esuyzwwr.f1sip0of.du4w35lb.lzcic4wl.abiwlrkh.p8dawk7l.q4j490t4.bn9dirzp.bhd12jwn > div > span";
         static string DOM_FOLLOW = "div > div:nth-child(1) > div > div.rq0escxv.l9j0dhe7.du4w35lb > div > div > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb > div.j83agx80.cbu4d94t.dp1hu0rb > div > div > div.rq0escxv.lpgh02oy.du4w35lb.rek2kq2y > div > div > div > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.cbu4d94t.pfnyh3mw.d2edcug0.hpfvmrgz.o8rfisnq > div > div > div > div:nth-child(1) > div";
         public Form1()
         {
@@ -48,16 +49,21 @@ namespace TuongTacCheo
             {
                 MessageBox.Show("Phải tích ít nhất một nhiệm vụ!");
                 return;
-            }    
+            }
+            int quangNghi = 10;
+            int.TryParse(txtQuangNghi.Text, out quangNghi);
             List<Info> infos = new List<Info>();
             for (int i = 0; i < listInfo.Rows.Count - 1; i++)
             {
-                string username = listInfo.Rows[i].Cells["txtUsername"].Value.ToString();
-                string password = listInfo.Rows[i].Cells["txtPassword"].Value.ToString();
-                string cookie = listInfo.Rows[i].Cells["txtCookie"].Value.ToString();
+                var username = listInfo.Rows[i].Cells["txtUsername"].Value;
+                var password = listInfo.Rows[i].Cells["txtPassword"].Value;
+                var cookie = listInfo.Rows[i].Cells["txtCookie"].Value;
+
+                if (username == null || password == null || cookie == null)
+                    continue;
                 int index = i;
-                new Thread(() => Start(username, password, GetCookies(cookie), index)).Start();
-                infos.Add(new Info(username, password, cookie));
+                new Thread(() => Start(username.ToString(), password.ToString(), GetCookies(cookie.ToString()), quangNghi, index)).Start();
+                infos.Add(new Info(username.ToString(), password.ToString(), cookie.ToString()));
             }
             writeFile(infos);
         }
@@ -87,7 +93,7 @@ namespace TuongTacCheo
             }
         }
 
-        private void Start(String username, String password, List<Cookie> cookies, int i)
+        private void Start(String username, String password, List<Cookie> cookies,int quangNghi, int i)
         {
             var driverService = ChromeDriverService.CreateDefaultService();
             driverService.HideCommandPromptWindow = true;
@@ -106,9 +112,11 @@ namespace TuongTacCheo
                 driver.Manage().Cookies.AddCookie(cookie);
             }
             driver.Navigate().Refresh();
+
             var title = driver.FindElementByTagName("title").GetAttribute("innerText");
             if ("Facebook".Equals(title))
             {
+                WriteLog("=>> Đăng nhập thành công");
                 driver.Navigate().GoToUrl("https://tuongtaccheo.com/");
                 driver.FindElementByXPath("//*[@id='memberModal']/div/div/div[1]/button/span").Click();
                 
@@ -117,7 +125,7 @@ namespace TuongTacCheo
                 driver.FindElementByXPath("//*[@id='login']/div/div[2]/form/input[3]").Click();
                 
                 UpdateGridView(driver, "Đang chạy", i);
-                WriteLog("=>> Đăng nhập thành công");
+                
                 List<Misson> missons = ToolUtils.GetListMisson(checkFollow, checkLikePage, checkLikePost);
                 int n = 0;
                 while (true)
@@ -125,6 +133,9 @@ namespace TuongTacCheo
                     DoMisson(driver, missons[n], i);
                     n++;
                     if (n >= missons.Count) {
+                        
+                        WriteLog("\n=>> ĐANG NGHỈ " + quangNghi + " GIÂY");
+                        Thread.Sleep(quangNghi*1000);
                         n = 0;
                     }
                 }
@@ -139,7 +150,7 @@ namespace TuongTacCheo
         private void WriteLog(String text)
         {
             if (ControlInvokeRequired(txtLog, () => WriteLog(text))) return;
-            txtLog.Text += text + "\n";
+            txtLog.Text = text + "\n" + txtLog.Text;
         }
 
         public bool ControlInvokeRequired(Control c, Action a)
@@ -155,6 +166,7 @@ namespace TuongTacCheo
             try
             {
                 var money = driver.FindElementById("soduchinh").GetAttribute("innerText");
+                listInfo.Rows[i].Cells["txtMoney"].Value = "             ";
                 listInfo.Rows[i].Cells["txtMoney"].Value = money;
             }
             catch
@@ -201,45 +213,82 @@ namespace TuongTacCheo
             int.TryParse(txtNumRun.Text, out n);
             for (int k = 0; k < n; k++)
             {
-                var button = driver.FindElementByCssSelector(".btn.btn-default");
-                if (button == null)
+                try
                 {
+                    driver.FindElementByCssSelector(".btn.btn-default").Click();
+                    
+                }
+                catch
+                {
+                    try
+                    {
+                        driver.FindElementById("tailai").Click();
+                    }
+                    catch
+                    {
+
+                    }
                     Thread.Sleep(5000);
-                    button = driver.FindElementByCssSelector(".btn.btn-default");
+                    driver.FindElementByCssSelector(".btn.btn-default").Click();
                 }
                 CloseX(driver);
-                button.Click();
+                
                 WriteLog("Running task: " + misson);
                 Thread.Sleep(7000);
                 driver.SwitchTo().Window(driver.WindowHandles[1]);
                 switch (misson)
                 {
                     case Misson.LIKE_PAGE:
-                        var buttonFb = driver.FindElementByCssSelector(DOM_LIKE_PAGE);
-                        if (buttonFb == null)
+                        try
+                        {
+                            driver.FindElementByCssSelector(DOM_LIKE_PAGE).Click();
+                        }
+                        catch
                         {
                             Thread.Sleep(5000);
-                            buttonFb = driver.FindElementByCssSelector(DOM_LIKE_PAGE);
+                            driver.FindElementByCssSelector(DOM_LIKE_PAGE).Click();
                         }
-                        buttonFb.Click();
                         break;
                     case Misson.FOLLOW:
-                        var buttonFb2 = driver.FindElementByCssSelector(DOM_FOLLOW);
-                        if (buttonFb2 == null)
+                        try
+                        {
+                            driver.FindElementByCssSelector(DOM_FOLLOW).Click();
+                        }
+                        catch
                         {
                             Thread.Sleep(5000);
-                            buttonFb = driver.FindElementByCssSelector(DOM_FOLLOW);
+                            driver.FindElementByCssSelector(DOM_FOLLOW).Click();
                         }
-                        buttonFb2.Click();
+                        break;
                         break;
                     case Misson.LIKE_POST:
-                        var buttonFb3 = driver.FindElementByCssSelector(DOM_LIKE_POST);
-                        if (buttonFb3 == null)
+                        var js = (IJavaScriptExecutor)driver;
+                        try
                         {
-                            Thread.Sleep(5000);
-                            buttonFb3 = driver.FindElementByCssSelector(DOM_LIKE_POST);
+                            js.ExecuteScript($"window.scroll(0, document.querySelector('{DOM_LIKE_POST}').getBoundingClientRect().y)");
                         }
-                        buttonFb3.Click();
+                        catch
+                        {
+                            js.ExecuteScript($"window.scroll(0, document.querySelector('{DOM_LIKE_POST_LIVESTREAM}').getBoundingClientRect().y)");
+                        }
+                        Thread.Sleep(2000);
+                        try
+                        {
+                            driver.FindElementByCssSelector(DOM_LIKE_POST).Click();
+                        }
+                        catch
+                        {
+                            js.ExecuteScript($"window.scroll(0, document.querySelector('{DOM_LIKE_POST}').getBoundingClientRect().y) - 100");
+                            Thread.Sleep(5000);
+                            try
+                            {
+                                driver.FindElementByCssSelector(DOM_LIKE_POST).Click();
+                            }
+                            catch
+                            {
+                                driver.FindElementByCssSelector(DOM_LIKE_POST_LIVESTREAM).Click();
+                            }
+                        }
                         break;
                 }
                 
@@ -288,6 +337,8 @@ namespace TuongTacCheo
             List<Cookie> cookies = new List<Cookie>();
             foreach (String text in txtCookie.Split(';'))
             {
+                if (string.IsNullOrWhiteSpace(text))
+                    continue;
                 String[] str = text.Trim().Split('=');
                 Cookie cookie = new Cookie(str[0], str[1]);
                 cookies.Add(cookie);
@@ -311,6 +362,16 @@ namespace TuongTacCheo
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkLikePage_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
